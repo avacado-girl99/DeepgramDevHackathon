@@ -1,0 +1,6 @@
+framework module DeepGram {
+  umbrella header "DeepGram-umbrella.h"
+
+  export *
+  module * { export * }
+}
